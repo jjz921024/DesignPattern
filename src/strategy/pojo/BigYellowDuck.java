@@ -1,6 +1,5 @@
 package strategy.pojo;
 
-import strategy.Duck;
 import strategy.impl.FlyNoWay;
 
 /**

@@ -2,6 +2,7 @@ package strategy;
 
 import org.junit.Test;
 import strategy.pojo.BigYellowDuck;
+import strategy.pojo.Duck;
 import strategy.pojo.RedDuck;
 
 /**
