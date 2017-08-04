@@ -20,15 +20,15 @@ public class Subject {
     }
 
 
-    protected void notifyObserverWeather() {
+    protected void notifyObserver() {
         for (Observer o : observers) {
-            o.updateWeaher(this);
+            o.update(this);
         }
     }
 
-    protected void notifyObserverPaper() {
+    /*protected void notifyObserverPaper() {
         for (Observer o : observers) {
             o.updatePaper(this);
         }
-    }
+    }*/
 }

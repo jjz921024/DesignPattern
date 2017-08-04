@@ -12,6 +12,6 @@ public class PaperSubject extends Subject {
 
     public void setPaperSubject(int paperSubject) {
         this.paperSubject = paperSubject;
-        this.notifyObserverPaper();
+        this.notifyObserver();
     }
 }

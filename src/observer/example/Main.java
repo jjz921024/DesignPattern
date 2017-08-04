@@ -1,6 +1,6 @@
 package observer.example;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * Created by Jun on 2017/8/3.

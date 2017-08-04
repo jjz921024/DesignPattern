@@ -13,6 +13,6 @@ public class WeatherSubject extends Subject {
 
     public void setWeatherState(String weatherState) {
         this.weatherState = weatherState;
-        this.notifyObserverWeather();
+        this.notifyObserver();
     }
 }
