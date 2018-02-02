@@ -1,6 +1,6 @@
 package strategy.pojo;
 
-import strategy.FlyingStragety;
+import strategy.impl.FlyingStragety;
 
 /**
  * Created by Jun on 2017/8/4.
