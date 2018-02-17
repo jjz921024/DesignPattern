@@ -1,4 +1,4 @@
-package proxy.dynamic.jdkproxy;
+package proxy;
 
 /**
  * Created by Jun on 2018/2/2.

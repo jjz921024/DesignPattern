@@ -1,6 +1,6 @@
 package proxy.dynamic.jdkproxy;
 
-import proxy.staticproxy.RealSubject;
+import proxy.RealSubject;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

@@ -1,4 +1,4 @@
-package proxy.staticproxy;
+package proxy;
 
 /**
  * 代理类和被代理类 需要共同实现的接口

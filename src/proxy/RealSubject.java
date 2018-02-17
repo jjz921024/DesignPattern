@@ -1,6 +1,4 @@
-package proxy.staticproxy;
-
-import proxy.dynamic.jdkproxy.Subject2;
+package proxy;
 
 /**
  * 真正执行的 被代理的类

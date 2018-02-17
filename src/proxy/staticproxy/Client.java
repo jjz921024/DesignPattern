@@ -1,5 +1,7 @@
 package proxy.staticproxy;
 
+import proxy.RealSubject;
+
 /**
  * Created by Jun on 2018/2/2.
  */

@@ -1,7 +1,8 @@
 package proxy.dynamic.jdkproxy;
 
-import proxy.staticproxy.RealSubject;
-import proxy.staticproxy.Subject;
+import proxy.RealSubject;
+import proxy.Subject;
+import proxy.Subject2;
 
 import java.lang.reflect.Proxy;
 
